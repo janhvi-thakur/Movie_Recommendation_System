@@ -1,8 +1,10 @@
 🎬 Movie Recommendation System (Streamlit App)
+
 A content-based Movie Recommendation System built with Python, Streamlit, and Machine Learning.
 It suggests movies to users based on similarity scores calculated from movie features such as genres, keywords, cast, and crew.
 
 📌 Features
+
 Recommend movies similar to a given movie title
 Simple and interactive Streamlit web interface
 Pre-trained similarity model for fast recommendations
